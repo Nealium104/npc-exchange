@@ -9,7 +9,7 @@ export default function Nav() {
           <a href="/characters">Characters</a>
         </li>
         <li>
-          <a href="/contact"></a>
+          <a href="/contact">Contact</a>
         </li>
       </ul>
     </nav>
